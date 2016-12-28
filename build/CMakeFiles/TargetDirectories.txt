@@ -1,0 +1,5 @@
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/def_loop.dir
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/ircpHandler.dir
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/no_ros_kv2.dir
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/pcseg.dir
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/ros_no_ircp.dir
