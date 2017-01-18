@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC  -std=c++11 -march=native  -Wno-deprecated -O3 -DNDEBUG   -Wl,--as-needed  -shared -Wl,-soname,libircpHandler.so -o libircpHandler.so CMakeFiles/ircpHandler.dir/src/ircpHandler.cpp.o  -L/home/erman/codes/misc/ircp/lib -lircp -Wl,-rpath,/home/erman/codes/misc/ircp/lib 
