@@ -1,0 +1,3 @@
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/ircpHandler.dir
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/pcseg.dir
+/home/erman/tmp/pc-segmentation/build/CMakeFiles/ros_no_ircp.dir
